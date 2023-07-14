@@ -2,8 +2,7 @@
 
 ***
 
-## Demo : https://memorygamebzc.netlify.app/
-
+## Demo : https://covid19-sb.netlify.app/
 
 ***
 
