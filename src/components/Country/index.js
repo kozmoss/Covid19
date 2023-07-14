@@ -19,7 +19,7 @@ function Countries() {
       } else {
         dispatch(fetchCovidData({ selectedCountry }));
       }
-    }, [selectedCountry]);
+    },[selectedCountry]);
     
       const handleSelect = (e) => {
         dispatch(selectCounrty(e.target.value));
